@@ -4,9 +4,9 @@ OS: Ubuntu 20.04 TLS
 
 1. Clone ardupilot repository <br>
    ```
-   git clone https://github.com/ArduPilot/ardupilot.git <br>
-   cd ardupilot <br>
-   git submodule update --init --recursive <br>
+   git clone https://github.com/ArduPilot/ardupilot.git
+   cd ardupilot
+   git submodule update --init --recursive
    ```
 
 2. Install all needed dependencies <br>
